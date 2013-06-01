@@ -1,14 +1,14 @@
 /*****  A SIMPLE SEARCH ENGINE ******
 *  Accepts file or foldername and a word to be searched for.
 *   - In case of file, it finds the word in given file using special regular
-*     expression searchand display the line of occerrence.
+*     expression search and displays the line of occurrence.
 *   - In case of folder, it reads each .txt file and tries to find the given word
 *     using regular expression search.
-*   Also displays total number of occerence of word in each file.
+*   Also displays total number of occurence of word in each file.
 *
 *
-*   Copyleft © by Vibhuti Sharma :)
-*    All rights are not researved.
+*   Copyleft ï¿½ by Vibhuti Sharma :)
+*    All rights are not reserved.
 */
 
 #include<stdio.h>
