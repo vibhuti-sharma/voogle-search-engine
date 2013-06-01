@@ -22,7 +22,7 @@ How It Works
 * Also displays the total number of occurences of the word in each file.
 
 
-FEATURES
+Features
 ---------
 
 KEYWORD SEARCH
